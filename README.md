@@ -18,4 +18,4 @@ now here in my code I have mostly tried to use obvious names for variables and t
 I have used various functions to achieve the tasks and yeah the next stage will be to include commandline arguments for it [as per ladyElusive's Suggestion]
 But before that I am planning to implement the same in Python mostly py3 as that is latest :p as per amigojapan_bnc's suggestion.
 [dont forget to check his website:  http://amigojapan.github.io/ ]
-And also thanx for advice Kaffeejunky123 :)
+And also thanx for advice KaffeeJunky123 :)
