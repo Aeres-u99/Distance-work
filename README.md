@@ -15,7 +15,7 @@ note that angles need to be in radians to pass to trig functions!
 
 now here in my code I have mostly tried to use obvious names for variables and thanx to my bad choice of using structures, the variable names are very long but descriptive.
 
-I have used various functions to achieve the tasks and yeah the next stage will be to include commandline arguments for it [as per ladyElusive's Suggestion]
+I have used various functions to achieve the tasks and yeah the next stage will be to include commandline arguments for it [as per ladyElusive's Suggestion she is here :https://github.com/cruelthesis :p]
 But before that I am planning to implement the same in Python mostly py3 as that is latest :p as per amigojapan_bnc's suggestion.
 [dont forget to check his website:  http://amigojapan.github.io/ ]
 And also thanx for advice KaffeeJunky123 :)
